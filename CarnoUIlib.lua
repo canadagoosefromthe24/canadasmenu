@@ -26,7 +26,7 @@ MainUI.BackgroundTransparency = 1.000
 MainUI.Position = UDim2.new(0.275138855, 0, 0.147420153, 0)
 MainUI.Size = UDim2.new(0, 784, 0, 545)
 MainUI.Image = "rbxassetid://3570695787"
-MainUI.ImageColor3 = Color3.fromRGB(35, 35, 42)
+MainUI.ImageColor3 = Color3.fromRGB(205, 84, 75)
 MainUI.ScaleType = Enum.ScaleType.Slice
 MainUI.SliceCenter = Rect.new(100, 100, 100, 100)
 MainUI.SliceScale = 0.120
@@ -251,7 +251,7 @@ function Lib:Category(name)
 
 	Main_3.Name = name
 	Main_3.Parent = Categories
-	Main_3.BackgroundColor3 = Color3.fromRGB(35, 35, 42)
+	Main_3.BackgroundColor3 = Color3.fromRGB(205, 84, 75)
 	Main_3.BorderSizePixel = 0
 	Main_3.Selectable = false
 	Main_3.Visible = false
